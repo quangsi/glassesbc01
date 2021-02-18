@@ -1,0 +1,25 @@
+* npm install create-react-app -g
+* create-react-app "Ten project"
+* câu lệnh cài lại node_modules: npm install
+* cau lenh mở project: npm start
+
+=========== Buoi 1 ===========
+    * Component:
+        - Stateful Component: Class
+        - Stateless Component: Function
+
+*Baitap3
+    -index
+        - header
+        - carousel
+        - list-smartphone
+            - item-product
+            - item-product
+            - item-product
+            - item-product
+        - list-laptop
+            - item-product
+            - item-product
+            - item-product
+            - item-product
+        - promotion
